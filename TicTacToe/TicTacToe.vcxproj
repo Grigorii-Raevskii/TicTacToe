@@ -24,6 +24,7 @@
     <ClInclude Include="include\view.hpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="include\view.cpp" />
     <ClCompile Include="src\game.cpp" />
     <ClCompile Include="src\main.cpp" />
     <ClCompile Include="src\view_compact.cpp" />
